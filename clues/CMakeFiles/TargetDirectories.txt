@@ -1,0 +1,2 @@
+/home/algolab/problems/clues/CMakeFiles/clues.dir
+/home/algolab/problems/clues/CMakeFiles/clues_2.dir

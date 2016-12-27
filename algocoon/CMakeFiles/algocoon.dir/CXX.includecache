@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/algolab/problems/min_cost/algocoon/algocoon.cpp
+iostream
+-
+vector
+-
+climits
+-
+boost/graph/adjacency_list.hpp
+-
+boost/graph/push_relabel_max_flow.hpp
+-
+boost/tuple/tuple.hpp
+-
+

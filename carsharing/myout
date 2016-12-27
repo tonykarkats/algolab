@@ -1,0 +1,59 @@
+Maximum time found = 90
+Maximum time found = 90
+Maximum time found = 90
+nodes per branch = 4
+Source is 8 and sink is 9
+Adding edges for source and sink
+Added: 8 -> 0 (1, 0)
+Added: 3 -> 9 (INF, 0)
+Added: 8 -> 4 (0, 0)
+Added: 7 -> 9 (INF, 0)
+Adding intermediate edges
+Added: 0 -> 1
+Added: 1 -> 2
+Added: 2 -> 3
+Added: 4 -> 5
+Added: 5 -> 6
+Added: 6 -> 7
+Inputing request 0
+Added: 6 -> 3 : (1, -7)
+Inputing request 1
+Added: 0 -> 7 : (1, -10)
+Inputing request 2
+Added: 1 -> 6 : (1, -5)
+Computing Flow
+-12
+Maximum time found = 30
+Maximum time found = 60
+Maximum time found = 60
+Maximum time found = 90
+Maximum time found = 90
+Maximum time found = 90
+nodes per branch = 4
+Source is 8 and sink is 9
+Adding edges for source and sink
+Added: 8 -> 0 (1, 0)
+Added: 3 -> 9 (INF, 0)
+Added: 8 -> 4 (2, 0)
+Added: 7 -> 9 (INF, 0)
+Adding intermediate edges
+Added: 0 -> 1
+Added: 1 -> 2
+Added: 2 -> 3
+Added: 4 -> 5
+Added: 5 -> 6
+Added: 6 -> 7
+Inputing request 0
+Added: 0 -> 5 : (1, -1)
+Inputing request 1
+Added: 4 -> 2 : (1, -1)
+Inputing request 2
+Added: 0 -> 6 : (1, -1)
+Inputing request 3
+Added: 2 -> 7 : (1, -1)
+Inputing request 4
+Added: 4 -> 1 : (1, -1)
+Inputing request 5
+Added: 5 -> 3 : (1, -1)
+Computing Flow
+-5

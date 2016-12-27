@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/algolab/problems/sith/sith_long.cpp
+vector
+-
+cmath
+-
+iostream
+-
+map
+-
+CGAL/Delaunay_triangulation_2.h
+-
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+boost/graph/adjacency_list.hpp
+-
+boost/tuple/tuple.hpp
+-
+boost/graph/connected_components.hpp
+-
+boost/graph/graphviz.hpp
+-
+boost/graph/graph_utility.hpp
+-
+
